@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "909481590933",
+    "firebase_url": "https://mgoalindo---app-default-rtdb.firebaseio.com",
+    "project_id": "mgoalindo---app",
+    "storage_bucket": "mgoalindo---app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909481590933:android:9ceb93a5c70a0affa5db9c",
+        "android_client_info": {
+          "package_name": "com.akujuara.aku_juara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909481590933-qcl6odmd7n373058jkbmbhub17rtum8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAMHpEi9oAKdnUbcQW6mPm5s2XXix5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909481590933-qcl6odmd7n373058jkbmbhub17rtum8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909481590933-7tc1cdnqlijq4nbs7b0vtvk549he3p15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mseg.MSportsid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909481590933:android:fde78bfbec2b55d9a5db9c",
+        "android_client_info": {
+          "package_name": "com.msports.mtrans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909481590933-qcl6odmd7n373058jkbmbhub17rtum8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAMHpEi9oAKdnUbcQW6mPm5s2XXix5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909481590933-qcl6odmd7n373058jkbmbhub17rtum8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909481590933-7tc1cdnqlijq4nbs7b0vtvk549he3p15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mseg.MSportsid"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909481590933:android:4012334cb965328da5db9c",
+        "android_client_info": {
+          "package_name": "com.providoindodigital.mgoal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909481590933-rivh0pi8loiguu7t6v18s2eogpi23fle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.providoindodigital.mgoal",
+            "certificate_hash": "5723a67c7787123ed5e4c919e8e80ca71adde051"
+          }
+        },
+        {
+          "client_id": "909481590933-qcl6odmd7n373058jkbmbhub17rtum8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmAMHpEi9oAKdnUbcQW6mPm5s2XXix5Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909481590933-qcl6odmd7n373058jkbmbhub17rtum8e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909481590933-7tc1cdnqlijq4nbs7b0vtvk549he3p15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mseg.MSportsid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
